@@ -1,0 +1,13 @@
+body {
+	background-color : yellow; 
+}
+
+p {
+	font-size: 20;
+	color: blue;
+}
+
+marquee {
+	font-size: 30;
+	font-style : italic;
+}
